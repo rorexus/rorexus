@@ -19,7 +19,7 @@ https://github.com/rotsl
 - Robotics  
 - Image Analysis  
 - Signal Processing  
-- Machine Learning for Engineering  
+- Machine Learning for Biological Sciences
 
 ---
 
