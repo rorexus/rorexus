@@ -1,4 +1,4 @@
-### Research Profile
+### Profile
 
 I work at the intersection of engineering, computation, and data-driven analysis, with a focus on reproducible research artifacts and citable technical outputs.
 
@@ -60,3 +60,22 @@ Fluid dynamics; computational fluid dynamics (CFD); nuclear reactor physics; the
 - Actively maintained research code and reproducibility materials are hosted on **`rotsl`**.
 
 ---
+My  full page can be found here [rorexus](https://rorexus.github.io/)
+
+### Support
+
+If you find this work useful, you can support me here:
+<a
+  href="https://buymeacoffee.com/rorexus"
+  target="_blank"
+  rel="noopener noreferrer"
+  style="
+    display:inline-block;
+    padding:0.6rem 1.1rem;
+    background:#FFDD00;
+    color:#000;
+    font-weight:600;
+    border-radius:6px;
+    text-decoration:none;">
+  ☕ Buy Me a Coffee
+</a>
