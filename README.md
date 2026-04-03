@@ -1,4 +1,4 @@
-### Profile
+###  Profile
 
 I work on computational methods, research software, and engineering systems. Focus: reproducible workflows, compact methods, and citable technical artifacts.
 
@@ -43,6 +43,20 @@ computational science; scientific computing; numerical methods; research softwar
 - **Wisp**  
   Context-aware semantic styling engine.  
   DOI: https://doi.org/10.13140/RG.2.2.40078.91448
+
+- **🧠 notion-Health-AI**  
+  Local-first Notion health tracker with TRIBEv2 brain analysis, AI health insights, symptom logging, goals, medications, appointments, and a browser UI.  
+  Repository: https://github.com/rotsl/notion-Health-AI
+
+- **☕ pot.of**  
+  A ridiculous but lovingly built virtual coffee pot controller inspired by RFC 2324, powered by Next.js and Google Gemini.  
+  Repository: https://github.com/rotsl/pot.of  
+  Live: https://pot-of.vercel.app/
+
+- **📊 RepoPulseAI**  
+  GitHub App and Next.js web app for repository analysis. Scores project health and provides actionable insights based on repository signals.  
+  GitHub App: https://github.com/apps/repopulseai  
+  Web app: https://repo-pulse-ai.vercel.app/
 
 - **Electronics & control systems (selected)**  
   Air ioniser; sequential device control; remote control systems; micro inverter; wearable-device systems.
